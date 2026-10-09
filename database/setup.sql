@@ -1,6 +1,6 @@
 -- sia nu chuy duay
 -- ruay mai wai laew
--- I here nu
+-- I love nu
 CREATE DATABASE IF NOT EXISTS resume_lab CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE resume_lab;
 DROP TABLE IF EXISTS training;
